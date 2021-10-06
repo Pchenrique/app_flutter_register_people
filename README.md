@@ -1,4 +1,4 @@
-# register_people
+# Cadastro de pessoas
 
 A new Flutter project.
 
